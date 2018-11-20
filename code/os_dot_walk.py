@@ -8,3 +8,7 @@ for path, dirs, files in os.walk('/home/luo3300612/PycharmProjects/scripts/code'
     print("files")
     for file in files:
         print(file)
+
+
+if os.path.exists("ABC"): # 检查文件是否存在
+    print("YES")

@@ -3,6 +3,150 @@
   <component name="ChangeListManager">
     <list default="true" id="613bb263-3aaf-4e14-8205-172201377120" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/18/spinner_asyncio.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/fluentpy/chapter18/spinner_asyncio.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/18/spinner_thread.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/fluentpy/chapter18/spinner_thread.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/download_flags/demo_executor_map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/download_flags/flags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/download_flags/flags_threadpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/os_dot_walk.py" beforeDir="false" afterPath="$PROJECT_DIR$/code/os_dot_walk.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/BlpImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/BlpImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/ContainerIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/ContainerIO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/EpsImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/EpsImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/GbrImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/GbrImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/ImageDraw.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/ImageDraw.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/ImageOps.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/ImageOps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/IptcImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/IptcImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/PdfImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/PdfImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/PngImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/PngImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/PsdImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/PsdImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/SunImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/SunImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/TarIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/TarIO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/TiffImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/TiffImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/WalImageFile.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/PIL/WalImageFile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/chardet/escsm.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/chardet/escsm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/chardet/latin1prober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/chardet/latin1prober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/chardet/mbcssm.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/chardet/mbcssm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/idna/uts46data.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/idna/uts46data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/backends/web_backend/jquery/js/jquery-1.11.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/backends/web_backend/jquery/js/jquery-1.11.3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/dates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/mathtext.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/mathtext.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/sphinxext/tests/tinypages/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/matplotlib/sphinxext/tests/tinypages/conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/add_newdocs.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/add_newdocs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/core/einsumfunc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/core/einsumfunc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/core/fromnumeric.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/core/fromnumeric.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/core/tests/test_arrayprint.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/core/tests/test_arrayprint.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/core/tests/test_datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/core/tests/test_datetime.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/doc/indexing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/doc/indexing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/fft/fftpack.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/fft/fftpack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/lib/arraysetops.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/lib/arraysetops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/lib/financial.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/lib/financial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/lib/shape_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/lib/shape_base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/ma/extras.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/ma/extras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/ma/tests/test_core.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/ma/tests/test_core.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/ma/tests/test_extras.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/ma/tests/test_extras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/ma/tests/test_subclassing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/ma/tests/test_subclassing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/polynomial/laguerre.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/polynomial/laguerre.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/polynomial/legendre.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/numpy/polynomial/legendre.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/certifi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/certifi/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/escsm.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/escsm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/latin1prober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/latin1prober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/mbcssm.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/mbcssm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/locators.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/distlib/locators.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/serializer.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/html5lib/serializer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/idna/uts46data.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/idna/uts46data.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/ipaddress.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/ipaddress.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/__version__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/__version__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/webencodings/x_user_defined.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/webencodings/x_user_defined.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/cluster/hierarchy.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/cluster/hierarchy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/constants/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/constants/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/constants/codata.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/constants/codata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/constants/constants.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/constants/constants.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/fftpack/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/fftpack/helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/integrate/_bvp.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/integrate/_bvp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/integrate/_ivp/bdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/integrate/_ivp/bdf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/integrate/_ivp/ivp.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/integrate/_ivp/ivp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/interpolate/_cubic.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/interpolate/_cubic.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/interpolate/fitpack2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/interpolate/fitpack2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/interpolate/tests/test_polyint.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/interpolate/tests/test_polyint.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/io/harwell_boeing/tests/test_hb.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/io/harwell_boeing/tests/test_hb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/io/matlab/mio5_params.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/io/matlab/mio5_params.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/linalg/decomp_svd.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/linalg/decomp_svd.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/linalg/tests/test_solvers.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/linalg/tests/test_solvers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/linalg/tests/test_special_matrices.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/linalg/tests/test_special_matrices.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/ndimage/filters.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/ndimage/filters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/ndimage/interpolation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/ndimage/interpolation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/ndimage/morphology.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/ndimage/morphology.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/optimize/_trustregion_constr/tr_interior_point.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/optimize/_trustregion_constr/tr_interior_point.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/optimize/minpack.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/optimize/minpack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/optimize/optimize.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/optimize/optimize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/optimize/tests/test__spectral.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/optimize/tests/test__spectral.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/optimize/tests/test_optimize.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/optimize/tests/test_optimize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/optimize/tnc.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/optimize/tnc.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/signal/_upfirdn.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/signal/_upfirdn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/signal/filter_design.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/signal/filter_design.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/signal/fir_filter_design.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/signal/fir_filter_design.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/signal/ltisys.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/signal/ltisys.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/signal/signaltools.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/signal/signaltools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/signal/tests/test_signaltools.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/signal/tests/test_signaltools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/signal/windows/windows.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/signal/windows/windows.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/sparse/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/sparse/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/spatial/_spherical_voronoi.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/spatial/_spherical_voronoi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/spatial/distance.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/spatial/distance.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/special/_spherical_bessel.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/special/_spherical_bessel.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/special/add_newdocs.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/special/add_newdocs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/stats/_distr_params.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/stats/_distr_params.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/stats/contingency.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/stats/contingency.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/stats/morestats.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/stats/morestats.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/stats/stats.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/stats/stats.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/stats/tests/test_contingency.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/stats/tests/test_contingency.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/stats/tests/test_distributions.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/stats/tests/test_distributions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/stats/tests/test_stats.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/scipy/stats/tests/test_stats.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/tqdm/_tqdm.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/tqdm/_tqdm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/wordcloud/_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib/python3.7/site-packages/wordcloud/_version.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/PIL/BlpImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/PIL/BlpImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/PIL/ImageOps.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/PIL/ImageOps.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/PIL/PngImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/PIL/PngImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/PIL/PsdImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/PIL/PsdImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/PIL/SunImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/PIL/SunImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/PIL/TarIO.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/PIL/TarIO.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/PIL/TiffImagePlugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/PIL/TiffImagePlugin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/chardet/escsm.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/chardet/escsm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/chardet/latin1prober.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/chardet/latin1prober.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/matplotlib/dates.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/matplotlib/dates.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/numpy/core/tests/test_arrayprint.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/numpy/core/tests/test_arrayprint.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/numpy/fft/fftpack.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/numpy/fft/fftpack.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/numpy/lib/arraysetops.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/numpy/lib/arraysetops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/numpy/ma/extras.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/numpy/ma/extras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/numpy/ma/tests/test_extras.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/numpy/ma/tests/test_extras.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/numpy/ma/tests/test_subclassing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/numpy/ma/tests/test_subclassing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/numpy/polynomial/legendre.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/numpy/polynomial/legendre.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/escsm.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/chardet/escsm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/ipaddress.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/ipaddress.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/__version__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/requests/__version__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/webencodings/x_user_defined.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/pip-10.0.1-py3.7.egg/pip/_vendor/webencodings/x_user_defined.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/pyparsing.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/pyparsing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/cluster/hierarchy.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/cluster/hierarchy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/constants/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/constants/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/constants/codata.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/constants/codata.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/fftpack/helper.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/fftpack/helper.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/integrate/_bvp.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/integrate/_bvp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/integrate/_ivp/bdf.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/integrate/_ivp/bdf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/integrate/_ivp/ivp.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/integrate/_ivp/ivp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/interpolate/fitpack2.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/interpolate/fitpack2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/io/harwell_boeing/tests/test_hb.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/io/harwell_boeing/tests/test_hb.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/ndimage/interpolation.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/ndimage/interpolation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/optimize/tests/test_optimize.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/optimize/tests/test_optimize.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/signal/tests/test_signaltools.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/signal/tests/test_signaltools.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/sparse/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/sparse/base.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/special/add_newdocs.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/special/add_newdocs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/stats/_distr_params.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/stats/_distr_params.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/stats/stats.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/stats/stats.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/stats/tests/test_contingency.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/stats/tests/test_contingency.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/stats/tests/test_stats.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/scipy/stats/tests/test_stats.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/tqdm/_tqdm.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/tqdm/_tqdm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/wordcloud/_version.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/lib64/python3.7/site-packages/wordcloud/_version.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,8 +156,9 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/scripts$tqdm.coverage" NAME="tqdm Coverage Results" MODIFIED="1542189720827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
-    <SUITE FILE_PATH="coverage/scripts$spinner_asyncio.coverage" NAME="spinner_asyncio Coverage Results" MODIFIED="1542612153261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/18" />
+    <SUITE FILE_PATH="coverage/scripts$spinner_asyncio.coverage" NAME="spinner_asyncio Coverage Results" MODIFIED="1542728795625" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/18" />
     <SUITE FILE_PATH="coverage/scripts$demo_executor_map.coverage" NAME="demo_executor_map Coverage Results" MODIFIED="1542188304277" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/download_flags" />
+    <SUITE FILE_PATH="coverage/scripts$osconfeed.coverage" NAME="osconfeed Coverage Results" MODIFIED="1542731779304" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/fluentpy/chapter19" />
     <SUITE FILE_PATH="coverage/scripts$flags.coverage" NAME="flags Coverage Results" MODIFIED="1542182802622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code/download_flags" />
     <SUITE FILE_PATH="coverage/bilibili$main.coverage" NAME="main Coverage Results" MODIFIED="1541684611640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
     <SUITE FILE_PATH="coverage/scripts$bilibili.coverage" NAME="bilibili Coverage Results" MODIFIED="1541687146958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/code" />
@@ -60,38 +205,42 @@
     <session id="-2094971377">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.5" value="2" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="5" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="324" />
+          <entry key="Python Console" value="411" />
           <entry key="dummy" value="20" />
-          <entry key="py" value="3507" />
+          <entry key="py" value="4974" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="20" />
-          <entry key="Python" value="3831" />
+          <entry key="Python" value="5385" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="gif" value="5" />
-          <entry key="py" value="8" />
+          <entry key="json" value="1" />
+          <entry key="py" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Image" value="5" />
-          <entry key="Python" value="8" />
+          <entry key="JSON" value="1" />
+          <entry key="Python" value="9" />
         </counts>
       </usages-collector>
     </session>
@@ -101,34 +250,19 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code/os_dot_walk.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="234">
+              <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/download_flags/flags_threadpool.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/code/fluentpy/chapter19/osconfeed.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
+            <state relative-caret-position="436">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
               <folding>
-                <element signature="e#0#9#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/download_flags/demo_executor_map.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="468">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-              <folding>
-                <element signature="e#0#32#0" expanded="true" />
-                <marker date="1542188304211" expanded="true" signature="85:90" ph="..." />
-                <marker date="1542188304211" expanded="true" signature="162:167" ph="..." />
-                <marker date="1542188304211" expanded="true" signature="367:677" ph="..." />
+                <element signature="e#24#58#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -137,7 +271,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code/tqdm_usage.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
+            <state relative-caret-position="90">
               <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
               <folding>
                 <element signature="e#0#21#0" expanded="true" />
@@ -147,10 +281,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/code/18/spinner_thread.py">
+        <entry file="file://$PROJECT_DIR$/code/fluentpy/chapter18/spinner_thread.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+            <state relative-caret-position="648">
+              <caret line="39" selection-start-line="39" selection-end-line="39" />
               <folding>
                 <element signature="e#0#16#0" expanded="true" />
               </folding>
@@ -158,11 +292,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/code/18/spinner_asyncio.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/code/fluentpy/chapter18/spinner_asyncio.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+            <state relative-caret-position="417">
+              <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
               <folding>
                 <element signature="e#0#14#0" expanded="true" />
               </folding>
@@ -178,7 +312,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/code/bilibili.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-276">
+            <state relative-caret-position="162">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
@@ -238,6 +372,9 @@
         <option value="$PROJECT_DIR$/code/tqdm_usage.py" />
         <option value="$PROJECT_DIR$/code/18/spinner_thread.py" />
         <option value="$PROJECT_DIR$/code/18/spinner_asyncio.py" />
+        <option value="$PROJECT_DIR$/code/os_dot_walk.py" />
+        <option value="$PROJECT_DIR$/code/fluentpy/19/osconfeed.py" />
+        <option value="$PROJECT_DIR$/code/fluentpy/chapter19/osconfeed.py" />
       </list>
     </option>
   </component>
@@ -275,7 +412,22 @@
               <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
               <item name="scripts" type="462c0819:PsiDirectoryNode" />
               <item name="code" type="462c0819:PsiDirectoryNode" />
-              <item name="18" type="462c0819:PsiDirectoryNode" />
+              <item name="fluentpy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="fluentpy" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter19" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="scripts" type="b2602c69:ProjectViewProjectNode" />
+              <item name="scripts" type="462c0819:PsiDirectoryNode" />
+              <item name="code" type="462c0819:PsiDirectoryNode" />
+              <item name="fluentpy" type="462c0819:PsiDirectoryNode" />
+              <item name="chapter19" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -291,6 +443,9 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/code/fluentpy" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/code" />
     </key>
@@ -307,7 +462,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.spinner_asyncio">
+  <component name="RunManager" selected="Python.osconfeed">
     <configuration name="demo_executor_map" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -330,7 +485,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="flags_threadpool" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="osconfeed" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="scripts" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,12 +493,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/download_flags" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/code/fluentpy/chapter19" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/download_flags/flags_threadpool.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/code/fluentpy/chapter19/osconfeed.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -419,19 +574,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.flags_threadpool" />
       <item itemvalue="Python.demo_executor_map" />
       <item itemvalue="Python.tqdm" />
       <item itemvalue="Python.spinner_thread" />
       <item itemvalue="Python.spinner_asyncio" />
+      <item itemvalue="Python.osconfeed" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.osconfeed" />
         <item itemvalue="Python.spinner_asyncio" />
         <item itemvalue="Python.spinner_thread" />
         <item itemvalue="Python.tqdm" />
         <item itemvalue="Python.demo_executor_map" />
-        <item itemvalue="Python.flags_threadpool" />
       </list>
     </recent_temporary>
   </component>
@@ -452,11 +607,11 @@
     <frame x="55" y="30" width="1865" height="1050" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10688705" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.110192835" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32997763" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3295838" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3430821" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -465,9 +620,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002755" side_tool="true" weight="0.32997763" />
-      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4997245" weight="0.33408323" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3295838" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5002755" side_tool="true" weight="0.3295838" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.49917355" weight="0.3352081" />
+      <window_info anchor="bottom" id="Python Console" order="12" sideWeight="0.4997245" weight="0.3295838" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -501,21 +656,14 @@
     <entry file="file://$PROJECT_DIR$/code/download_flags/downloads/ir.gif" />
     <entry file="file://$PROJECT_DIR$/code/download_flags/downloads/ng.gif" />
     <entry file="file://$PROJECT_DIR$/code/download_flags/downloads/us.gif" />
-    <entry file="file://$PROJECT_DIR$/code/download_flags/flags.py">
+    <entry file="file://$PROJECT_DIR$/code/fluentpy/download_flags/flags.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
           <caret line="11" column="9" selection-start-line="11" selection-end-line="12" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
-            <marker date="1542182802571" expanded="true" signature="247:252" ph="..." />
-            <marker date="1542182802571" expanded="true" signature="498:547" ph="..." />
-            <marker date="1542182802571" expanded="true" signature="576:581" ph="..." />
-            <marker date="1542182802571" expanded="true" signature="751:756" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/download_flags/flags_threadpool.py">
+    <entry file="file://$PROJECT_DIR$/code/fluentpy/download_flags/flags_threadpool.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
           <caret line="19" column="71" selection-start-line="19" selection-start-column="71" selection-end-line="19" selection-end-column="71" />
@@ -525,7 +673,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/download_flags/demo_executor_map.py">
+    <entry file="file://$PROJECT_DIR$/code/fluentpy/download_flags/demo_executor_map.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="468">
           <caret line="27" selection-start-line="27" selection-end-line="27" />
@@ -538,10 +686,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/requirements">
+    <entry file="file://$PROJECT_DIR$/code/tqdm_usage.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
+          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
+          <folding>
+            <element signature="e#0#21#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/fluentpy/chapter18/spinner_thread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+          <folding>
+            <element signature="e#0#16#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -550,15 +711,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/code/bilibili.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-276">
+        <state relative-caret-position="162">
           <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/os_dot_walk.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -572,32 +726,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/tqdm_usage.py">
+    <entry file="file://$PROJECT_DIR$/requirements">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="15" selection-start-line="6" selection-start-column="15" selection-end-line="6" selection-end-column="15" />
-          <folding>
-            <element signature="e#0#21#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="90">
+          <caret line="5" column="8" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/code/18/spinner_thread.py">
+    <entry file="file://$PROJECT_DIR$/code/fluentpy/chapter18/spinner_asyncio.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-          <folding>
-            <element signature="e#0#16#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/code/18/spinner_asyncio.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="16" column="17" lean-forward="true" selection-start-line="16" selection-start-column="17" selection-end-line="16" selection-end-column="17" />
+        <state relative-caret-position="417">
+          <caret line="26" column="18" selection-start-line="26" selection-start-column="18" selection-end-line="26" selection-end-column="18" />
           <folding>
             <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/os_dot_walk.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="10" selection-start-line="13" selection-start-column="10" selection-end-line="13" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/fluentpy/chapter19/data/osconfeed.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/code/fluentpy/chapter19/osconfeed.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="436">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
+          <folding>
+            <element signature="e#24#58#0" expanded="true" />
           </folding>
         </state>
       </provider>
