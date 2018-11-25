@@ -1,5 +1,6 @@
 import abc
 
+
 class AutoStorage:
     __counter = 0
 
@@ -8,8 +9,6 @@ class AutoStorage:
         prefix = cls.__name__
         index = cls.__counter
         self.storage_name = '_{}#'
-
-
 
 
 class Account:
@@ -24,4 +23,3 @@ class Account:
         account={self.account},
         password={self.password}\n
         description:\n{self.description}>"""
-
